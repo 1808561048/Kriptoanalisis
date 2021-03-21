@@ -1,0 +1,3 @@
+buka = open("file.txt")
+string = buka.read()
+print (string.replace ("a" , "j").replace ("b" , "k").replace ("c" , "l").replace ("d" , "m").replace ("e" , "n").replace ("f" , "o").replace ("g" , "p").replace ("h" , "q").replace ("i" , "r").replace ("j" , "s").replace ("k" , "t").replace ("l" , "u").replace ("m" , "v").replace ("n" , "w").replace ("o" , "x").replace ("p" , "y").replace ("q" , "z").replace ("r" , "a").replace ("s" , "b").replace ("t" , "c").replace ("u" , "d").replace ("v" , "e").replace ("w" , "f").replace ("x" , "g").replace ("y" , "h").replace ("z" , "i"))
